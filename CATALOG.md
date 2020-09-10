@@ -4,6 +4,6 @@
 
 ## Spring系列
 
-- [ ] [Spring系列之AOP](.\2020\20200911-spring-aop-demo.md)【2020.09.11 ~ 】
-- [ ] [Spring系列之URL访问定位问题](.\2020\20200911-spring-startup-bean.md)【2020.09.11 ~ 】
+- [ ] [Spring系列之AOP](./spring/Spring系列之AOP.md)【2020.09.11 ~ 】
+- [ ] [Spring系列之URL如何定位到方法](./spring/Spring系列之URL如何定位到方法.md)【2020.09.11 ~ 】
 
